@@ -1,3 +1,3 @@
 # DES
-DES (Data Encryption Standard)
-Just Universty Project
+# Implementation of DES (Data Encryption Standard) in python
+# Just Universty Project
